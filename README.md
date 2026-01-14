@@ -47,5 +47,5 @@ crud_mongodb/
 ---
 ## Pembuat Program Sederhana
 
-452024611053 // Farrel ghzoy Affifudin // Ti4 A1 
+452024611053 // Farrel ghzoy Affifudin // TI 4 A1 
 ---
