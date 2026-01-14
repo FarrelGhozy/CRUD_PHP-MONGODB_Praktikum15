@@ -1,0 +1,17 @@
+{
+    "name": "fazy/crud_mongodb",
+    "autoload": {
+        "psr-4": {
+            "Fazy\\CrudMongodb\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "FarrelGhozy",
+            "email": "farrelafif05@gmail.com"
+        }
+    ],
+    "require": {
+        "mongodb/mongodb": "^1.15"
+    }
+}
